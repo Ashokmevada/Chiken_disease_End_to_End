@@ -1,0 +1,43 @@
+[2023-10-31 00:09:40,188: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-31 00:09:40,206: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-31 00:09:40,214: INFO: common: created directory at : artifacts]
+[2023-10-31 00:09:40,214: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-31 00:13:36,943: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-31 00:13:36,947: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-31 00:13:36,955: INFO: common: created directory at : artifacts]
+[2023-10-31 00:13:36,955: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-31 00:13:58,331: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-31 00:13:58,339: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-31 00:13:58,339: INFO: common: created directory at : artifacts]
+[2023-10-31 00:13:58,347: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-31 00:14:21,703: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2023-10-31 00:14:21,703: INFO: common: yaml file: params.yaml loaded successfully]
+[2023-10-31 00:14:21,711: INFO: common: created directory at : artifacts]
+[2023-10-31 00:14:21,719: INFO: common: created directory at : artifacts/data_ingestion]
+[2023-10-31 00:14:46,321: INFO: 2153084205: artifacts/data_ingestion/data.zip downloaded! with following info: 
+Connection: close
+Content-Length: 11616915
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "adf745abc03891fe493c3be264ec012691fe3fa21d861f35a27edbe6d86a76b1"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: A498:2FB8:F8D32:1219E8:653FF987
+Accept-Ranges: bytes
+Date: Mon, 30 Oct 2023 18:44:26 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10236-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1698691464.631939,VS0,VE2741
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2d257dd27a7d2c1a34162f776d746120e8957de1
+Expires: Mon, 30 Oct 2023 18:49:26 GMT
+Source-Age: 2
+
+]

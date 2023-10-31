@@ -1,3 +1,3 @@
-# from src import logger
+from CNNClassifier import logger
 
-# logger.info("Welcome")
+logger.info("Welcome")
