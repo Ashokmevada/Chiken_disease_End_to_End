@@ -160,4 +160,4 @@ cython_debug/
 #.idea/
 
 # ignoring Artifacts 
-artifacts/data_ingestion
+artifacts/data_ingestion/*
